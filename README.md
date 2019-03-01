@@ -2,6 +2,7 @@
 
 Información sobre el proceso de Diseño y Experiencia de Usuario (UX) [aquí.](https://docs.google.com/document/d/1WWJJuuWotEwdXIHM9YZ36Bz5RlnRQjXMCAnmbeMgakk/edit?usp=sharing)
 
+
 ## Indicaciones previas para el funcionamiento del proyecto
 
 Contar con una computadora, un navegador web e Internet
@@ -16,15 +17,11 @@ Si sólo se requiere una visualización, basta con abrirlo desde cualquier naveg
 1. Para visualizar el proyecto sólo debe abrirse un
 `Navegador Web`
 
-Abrir la URL `https://_______________________________`
-
-`_____________________________________________`
+Abrir la URL `https://emonroy58.github.io/hackaton-peliculas/src/`
 
 2. Para editar el proyecto, se necesita clonar el respositorio desde [GitHub](https://github.com/) en la `Terminal`, usando [Git](https://git-scm.com/), [Node.js](https://nodejs.org/es/)
 
 Y tener instalado [Visual Studio Code](https://code.visualstudio.com/), o el editor de su preferencia
-
-## Pruebas
 
 ## Herramientas
 
@@ -45,6 +42,16 @@ Durante este proceso se usarón diversas herramientas:
 - Cristal García - [Cristalgarcia](https://github.com/cristalgarcia)
 - Analhí Guadarrama - [analhi7](https://github.com/analhi7)
 - Elsy Cardona - [elsycardona](https://github.com/elsycardona/)
+
+Colaboración de cada una de las autoras:
+
+Elizabeth Monroy hizo la conexión a la base de datos, extrajo la información con fetch, funciones de pintado en DOM, un poco de CSS, menú y carrete con Bootstrap, ayuda enviando las primeras encuestas, uso de canva, fue master de respositorio en GitHub.
+
+Cristal García realización de prototipado baja y alta fidelidad, primeras pruebas de usabilidad, elaboración y envió de primer encuesta, creo un perfil de usuario, elaboración de historias de usuario, análisis de experiencia de usuario, generación de hipótesis, modificación de CSS, funciones de pintado en DOM, elaboración de funciones de filtrado, elaboró y uso canva, colaboradora en GitHub.
+
+Anahlí Guadarrama ayudó en extraer la información de la data, funciones de pintado, se enfocó principalmente en CSS, ayudó enviando ambas encuestas, búsqueda y aplicación de botón dirigir hacia arriba, uso de canva, colaboradora en GitHub.
+
+Elsy Cardona realización de prototipado baja y alta fidelidad, primeras y segundas pruebas de usabilidad, elaboración y envió de primer encuesta, elaboración y envío de segunda encuesta, elaboración de historias de usuario, generación de hipótesis, análisis de experiencia de usuario, nombre y slogan del sitio, pruebas de usabilidad en usuarios en vía pública (COW y glorienta de metro Insurgentes), incremento del arreglo en DOM, elaboración de readme, uso de canva, colaboradora en GitHub.
 
 ## Agradecimientos
 
