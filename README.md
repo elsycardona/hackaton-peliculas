@@ -43,7 +43,7 @@ Y tener instalado [Visual Studio Code](https://code.visualstudio.com/), o el edi
 
 ## Herramientas
 
-Durante este proceso se usarón diversas herramientas:
+Durante este proceso se usaron diversas herramientas:
 - [Google](https://www.google.com/) - Buscador
 - [Visual Studio Code](https://code.visualstudio.com/) - Editor
 - [GitHub](https://github.com/) - Descarga de Repositorio y commits
@@ -63,13 +63,13 @@ Durante este proceso se usarón diversas herramientas:
 
 Colaboración de cada una de las autoras:
 
-Elizabeth Monroy hizo la conexión a la base de datos, extrajo la información con fetch, funciones de pintado en DOM, un poco de CSS, menú y carrete con Bootstrap, ayuda enviando las primeras encuestas, uso de canva, fue master de respositorio en GitHub.
+_Elizabeth_ _Monroy_ hizo la conexión a la base de datos, extrajo la información con fetch, funciones de pintado en DOM, un poco de CSS, menú y carrete con Bootstrap, ayudó enviando las primeras encuestas, planning y uso de canvan, fue master de respositorio en GitHub.
 
-Cristal García realización de prototipado baja y alta fidelidad, primeras pruebas de usabilidad, elaboración y envió de primer encuesta, creo un perfil de usuario, elaboración de historias de usuario, análisis de experiencia de usuario, generación de hipótesis, modificación de CSS, funciones de pintado en DOM, elaboración de funciones de filtrado, elaboró y uso canva, colaboradora en GitHub.
+_Cristal_ _García_ realización de prototipado baja y alta fidelidad, primeras pruebas de usabilidad, elaboración y envío de primer encuesta, creación del perfil de usuario, elaboración de historias de usuario, análisis de experiencia de usuario, generación de hipótesis, modificación de CSS, funciones de pintado en DOM, elaboración de funciones de filtrado, planning, elaboración y uso canvan, colaboradora en GitHub.
 
-Analhí Guadarrama ayudó en extraer la información de la data, funciones de pintado, se enfocó principalmente en CSS, ayudó enviando ambas encuestas, búsqueda y aplicación de botón dirigir hacia arriba, uso de canva, colaboradora en GitHub.
+_Analhí_ _Guadarrama_ ayudó en extraer la información de la data, funciones de pintado, se enfocó principalmente en CSS, ayudó enviando ambas encuestas, búsqueda y aplicación de botón dirigir hacia arriba, búsqueda y aplicación de efecto flip, planning y uso de canvan, colaboradora en GitHub.
 
-Elsy Cardona realización de prototipado baja y alta fidelidad, primeras y segundas pruebas de usabilidad, elaboración y envió de primer encuesta, elaboración y envío de segunda encuesta, elaboración de historias de usuario, generación de hipótesis, análisis de experiencia de usuario, nombre y slogan del sitio, pruebas de usabilidad en usuarios en vía pública (COW y glorienta de metro Insurgentes), incremento del arreglo en DOM, elaboración de readme, uso de canva, colaboradora en GitHub.
+_Elsy_ _Cardona_ realización de prototipado baja y alta fidelidad, primeras y segundas pruebas de usabilidad, elaboración y envío de primer encuesta, elaboración y envío de segunda encuesta, elaboración de historias de usuario, generación de hipótesis, análisis de experiencia de usuario, nombre y slogan del sitio, pruebas de usabilidad en usuarios en vía pública (COW y glorienta de metro Insurgentes), incremento del arreglo en DOM, elaboración de readme, planning y uso de canvan, colaboradora en GitHub.
 
 ## Agradecimientos
 
