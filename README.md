@@ -1,9 +1,22 @@
 # Hackaton Movies
 
-Información sobre el proceso de Diseño y Experiencia de Usuario (UX) [aquí.](https://docs.google.com/document/d/1WWJJuuWotEwdXIHM9YZ36Bz5RlnRQjXMCAnmbeMgakk/edit?usp=sharing)
+##Índice
+
+- [Análisis UX](#análisis-ux)
+- [Indicaciones](#indicaciones)
+- [Pre-requisitos](#pre-requisitos)
+- [Instalación](#instalación)
+- [Herramientas](#herramientas)
+- [Autoras](#autoras)
+- [Agradecimientos](#agradecimientos)
 
 
-## Indicaciones previas para el funcionamiento del proyecto
+##Análisis UX
+
+Información completa sobre el proceso de Diseño y Experiencia de Usuario (UX) [aquí.](https://docs.google.com/document/d/1WWJJuuWotEwdXIHM9YZ36Bz5RlnRQjXMCAnmbeMgakk/edit?usp=sharing)
+
+
+## Indicaciones
 
 Contar con una computadora, un navegador web e Internet
 
@@ -36,7 +49,7 @@ Durante este proceso se usarón diversas herramientas:
 - [Bootstrap](https://getbootstrap.com/) - Maquetación
 - [OMDb API](http://www.omdbapi.com/) - Data
 
-## Autores
+## Autoras
 
 - Elizabeth Monroy - [emonroy58](https://github.com/emonroy58)
 - Cristal García - [Cristalgarcia](https://github.com/cristalgarcia)
@@ -49,7 +62,7 @@ Elizabeth Monroy hizo la conexión a la base de datos, extrajo la información c
 
 Cristal García realización de prototipado baja y alta fidelidad, primeras pruebas de usabilidad, elaboración y envió de primer encuesta, creo un perfil de usuario, elaboración de historias de usuario, análisis de experiencia de usuario, generación de hipótesis, modificación de CSS, funciones de pintado en DOM, elaboración de funciones de filtrado, elaboró y uso canva, colaboradora en GitHub.
 
-Anahlí Guadarrama ayudó en extraer la información de la data, funciones de pintado, se enfocó principalmente en CSS, ayudó enviando ambas encuestas, búsqueda y aplicación de botón dirigir hacia arriba, uso de canva, colaboradora en GitHub.
+Analhí Guadarrama ayudó en extraer la información de la data, funciones de pintado, se enfocó principalmente en CSS, ayudó enviando ambas encuestas, búsqueda y aplicación de botón dirigir hacia arriba, uso de canva, colaboradora en GitHub.
 
 Elsy Cardona realización de prototipado baja y alta fidelidad, primeras y segundas pruebas de usabilidad, elaboración y envió de primer encuesta, elaboración y envío de segunda encuesta, elaboración de historias de usuario, generación de hipótesis, análisis de experiencia de usuario, nombre y slogan del sitio, pruebas de usabilidad en usuarios en vía pública (COW y glorienta de metro Insurgentes), incremento del arreglo en DOM, elaboración de readme, uso de canva, colaboradora en GitHub.
 
