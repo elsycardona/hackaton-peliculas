@@ -2,6 +2,7 @@
 
 ##Índice
 
+- [Introducción](#introducción)
 - [Análisis UX](#análisis-ux)
 - [Indicaciones](#indicaciones)
 - [Pre-requisitos](#pre-requisitos)
@@ -10,6 +11,10 @@
 - [Autoras](#autoras)
 - [Agradecimientos](#agradecimientos)
 
+
+##Introducción
+
+El siguiente proyecto se hizo dentro de un Hackaton en 3 días, en Laboratoria. Donde se pedía realizar un sitio con una base de datos acerca del cine, particularmente usando una API de películas.
 
 ##Análisis UX
 
