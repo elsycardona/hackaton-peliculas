@@ -1,6 +1,6 @@
 # Hackaton Movies
 
-##Índice
+## Índice
 
 - [Introducción](#introducción)
 - [Análisis UX](#análisis-ux)
@@ -12,11 +12,11 @@
 - [Agradecimientos](#agradecimientos)
 
 
-##Introducción
+## Introducción
 
 El siguiente proyecto se hizo dentro de un Hackaton en 3 días, en Laboratoria. Donde se pedía realizar un sitio con una base de datos acerca del cine, particularmente usando una API de películas.
 
-##Análisis UX
+## Análisis UX
 
 Información completa sobre el proceso de Diseño y Experiencia de Usuario (UX) [aquí.](https://docs.google.com/document/d/1WWJJuuWotEwdXIHM9YZ36Bz5RlnRQjXMCAnmbeMgakk/edit?usp=sharing)
 
